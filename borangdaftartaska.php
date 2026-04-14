@@ -5,13 +5,7 @@
 <body bgcolor="#ddd">
 <center>
 <div style="border-radius: 8px ; border: 1px solid black; width: 500px; margin-top: 30px; background-color: white;">
-<form method="" action="">
- <h3><u>BORANG PENDAFTARAN TASKA DUTA</u><h3>
- <table border=0 cellpadding=10 cellspacing=0>
-   <tr>
-     <td>ID</td>
-	 <td>:</td>
-	 <td><input type="text" name="id"></td>
+
   </tr>
   <tr>
      <td>NAMA ANAK</td>
