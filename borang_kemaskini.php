@@ -28,13 +28,7 @@
    <td><input type="text" name="nama_penjaga" value="<?php echo ;?>"></td>
  </tr>
  <tr>
-  <td>JANTINA</td>
-   <td>:</td>
-   <td><input type="text" name="jantina" value="<?php echo ;?>"></td></tr>
-   <tr>
-  <td>TARIKH LAHIR</td>
-   <td>:</td> 
-   <td><input type="date" name="tarikh lahir" value="<?php echo ;?>"></td>
+ 
 
    </tr>
      <tr>
