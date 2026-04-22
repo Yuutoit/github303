@@ -2,7 +2,6 @@
 
 include 'config.php';
 
-
   if(isset($_POST['hantar'])) {
 	  
 //post data di sini	
